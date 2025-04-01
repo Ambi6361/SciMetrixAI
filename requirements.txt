@@ -417,9 +417,6 @@ pygit2==1.17.0
 Pygments==2.18.0
 PyGObject==3.42.0
 PyJWT==2.10.1
-pylibcudf-cu12 @ https://pypi.nvidia.com/pylibcudf-cu12/pylibcudf_cu12-25.2.1-cp311-cp311-manylinux_2_24_x86_64.manylinux_2_28_x86_64.whl
-pylibcugraph-cu12==25.2.0
-pylibraft-cu12==25.2.0
 pymc==5.21.1
 pymystem3==0.2.0
 pyngrok==7.2.3
@@ -450,7 +447,6 @@ pyviz_comms==3.0.4
 PyYAML==6.0.2
 pyzmq==24.0.1
 raft-dask-cu12==25.2.0
-rapids-dask-dependency==25.2.0
 ratelim==0.1.6
 referencing==0.36.2
 regex==2024.11.6
